@@ -1,5 +1,5 @@
 # To do list in Flask
-This is a to do list created using flask, Data Base, HTML, and Jinja. All Modules need to create this are in the README.md file.
+This is a to do list created using flask, Data Base, HTML, and Jinja. All Modules need to create this project are in the README.md file.
 
 # Modules
 # virtualenv
