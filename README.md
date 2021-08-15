@@ -41,3 +41,16 @@ So you can install this.
 ```
 python (file_name).py
 ```
+
+# todo.db Error
+
+If you get an error saying that no file named todo.db, what you need to do is, firstly open terminal
+
+Type python and press enter
+
+After that, type, and one more thing, don't type file_name.py type file_name only
+
+```
+>>> from (file_name) import db
+>>> db.create_all()
+```
